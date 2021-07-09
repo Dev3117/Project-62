@@ -1,0 +1,159 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarouse2
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+
+.profile {
+    width: 600px;
+    height: 600px;
+    margin-bottom: 50px;
+
+}
+
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.83;
+    background: linear-gradient(#fcba03 0%, #03e7fc 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#name {
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.2;
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: firebrick;
+    margin: 8px auto;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top=0px;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+}
+
+html {
+    scroll-behavior: smooth;
+}
+#grid {
+    text-align: center;
+}
+
+.flower {
+    height: 500px;
+    width: 500px;
+}
+
+.flower2 {
+    height: 500px;
+    width: 500px;
+}
+
+.flower3 {
+    height: 500px;
+    width: 500px;
+}
+
+.flower4 {
+    height: 500px;
+    width: 500px;
+}
+
+.flower5 {
+    height: 500px;
+    width: 500px;
+}
+
+.flower6 {
+    height: 500px;
+    width: 500px;
+}
